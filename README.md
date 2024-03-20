@@ -1,1 +1,1 @@
-# hospital-management-system
+PHP and SQL is used for this project.
